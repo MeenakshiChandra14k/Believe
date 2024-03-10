@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+
+img{
+    width:35%;
+    border: solid 5px white;
+}
+
+.maindiv{
+    font-family: 'Libre Baskerville',serif;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    color:white;
+    margin-top: 3%;
+}
